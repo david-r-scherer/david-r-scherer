@@ -1,10 +1,4 @@
-David Scherer
 
-Resume
-
-Google Scholar
-
-Projects
 
 <!--
 **david-r-scherer/david-r-scherer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
